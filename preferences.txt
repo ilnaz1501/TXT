@@ -1,0 +1,5 @@
+favourite film : Green Mile;
+favourite serial : Witcher;
+favourite food : dumplings ;
+favourite season : summer;
+country : Canada

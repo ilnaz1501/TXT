@@ -1,0 +1,4 @@
+fio : Safiullin Ilnaz;
+age : 27;
+pets : 4;
+money: 2-3k$
